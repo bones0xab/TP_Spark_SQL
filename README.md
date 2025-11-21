@@ -38,7 +38,7 @@ SparkBikeAnalysis/
 1.  **Clone the repository**:
 
     ```bash
-    git clone [<your-repo-url>](https://github.com/bones0xab/TP_Spark_SQL.git)
+    git clone (https://github.com/bones0xab/TP_Spark_SQL.git)
     cd SparkBikeAnalysis
     ```
 
